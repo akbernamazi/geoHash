@@ -11,8 +11,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "ngeohash": "^0.6.3",
-    "node": "^15.0.1",
-    "serve": "^11.3.2",
-    "server": "^1.0.30"
+    "node": "^15.0.1"
   }
 }
